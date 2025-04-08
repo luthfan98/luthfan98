@@ -45,8 +45,9 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=luthfan98&show_icons=true&theme=tokyonight" alt="Luthfan's GitHub stats"/>
   <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=luthfan98&theme=tokyonight" alt="GitHub Streak"/>
+  
 </p>
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=luthfan98&theme=tokyonight)
 
 ---
 
