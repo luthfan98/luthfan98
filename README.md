@@ -1,5 +1,8 @@
 <h1 align="center">Hi, I'm Luthfan 👋</h1>
 <p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" />
+</p>
+<p align="center">
   💻 Fullstack Developer | 🔐 Web3 Enthusiast | 🧠 Lifelong Learner  
 </p>
 
@@ -45,9 +48,9 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=luthfan98&show_icons=true&theme=tokyonight" alt="Luthfan's GitHub stats"/>
   <br/>
-  
+  <img src="[https://github-readme-stats.vercel.app/api?username=luthfan98&show_icons=true&theme=tokyonight](https://github-readme-streak-stats.herokuapp.com/?user=luthfan98&theme=tokyonight)" alt="Luthfan's GitHub STREAK"/>
 </p>
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=luthfan98&theme=tokyonight)
+
 
 ---
 
